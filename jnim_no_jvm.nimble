@@ -12,4 +12,4 @@ bin           = @["jnim_no_jvm"]
 # Dependencies
 
 requires "nim >= 0.20.2"
-requires "jnim 0.5"
+requires "jnim 0.5.1"
